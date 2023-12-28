@@ -111,7 +111,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: "github.com/talltechy/wyen.me"
+baseurl: "wyen.me"
 
 # ------------ The following options are not recommended to be modified ------------------
 
